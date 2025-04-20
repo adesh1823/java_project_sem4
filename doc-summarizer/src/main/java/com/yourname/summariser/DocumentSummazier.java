@@ -16,4 +16,16 @@ public class DocumentSummarizer {
                 .waitForModel(true)
                 .build();
     }
+      public String summarize(String text, int maxLength) {
+        String prompt = String.format(
+            "Generate a concise summary under %d words:\n\n%s", 
+            maxLength, 
+            text.length() > 10000 ? text.substring(0, 10000) + "..." : text
+        );
+        return model.generate(prompt);
+    }
+}
+
+
+
 
