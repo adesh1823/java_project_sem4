@@ -22,12 +22,14 @@ Welcome to **IntelliSearch**, a powerful **Java-based application** designed to 
 ```bash
 git clone https://github.com/arav7781/java_project_sem4.git
 cd java_project_sem4/doc-summarizer
+```
 
 ### 2. Install Dependencies
 Make sure Maven is installed.
 
 ```bash
 mvn clean install
+```
 
 ## ✅ Java Setup
 
@@ -37,6 +39,7 @@ IntelliSearch requires **Java 11** or higher. Verify your Java installation by r
 
 ```bash
 java -version
+```
 
 ## 📂 Add Sample Documents
 
@@ -44,6 +47,7 @@ Place your `.txt` files in the following folder:
 
 ```plaintext
 src/main/resources/sample_documents/
+```
 
 ## 🚦 Usage
 
@@ -53,6 +57,7 @@ To launch **IntelliSearch**, use the following Maven command:
 
 ```bash
 mvn exec:java -Dexec.mainClass="com.yourname.summariser.DocumentSummarizer"
+```
 
 ### 📝 Summarize a Document
 
@@ -61,6 +66,7 @@ You will be prompted to enter a document path. For example:
 ```bash
 Enter document path: src/main/resources/sample_documents/doc1.txt
 Summary: [Generated summary here]
+```
 
 ### 🔍 Search Within Documents
 
@@ -69,6 +75,7 @@ You can search across the indexed documents by typing a keyword or phrase:
 ```bash
 Enter search query: machine learning
 Results: [Relevant document excerpts with highlighted matches]
+```
 
 ### 📊 Architecture Diagram
 
@@ -87,6 +94,7 @@ graph TD
     D -->|Search Results| I[ResultOutput]
     I -->|Display Results| A
     H -->|Display Summary| A
+```
 
 ---
 
