@@ -1,5 +1,7 @@
 # IntelliSearch: Intelligent Document Search and Summarization Retrieval App
 
+![Summarizer UI](https://github.com/arav7781/java_project_sem4/blob/main/d5802e98-8b4b-40f9-8280-6d64b45d68a0.jpeg?raw=true)
+
 Welcome to **IntelliSearch**, a powerful **Java-based application** designed to revolutionize how you **search**, **summarize**, and **retrieve** key information from documents. Whether you're a **researcher**, **student**, or **professional**, IntelliSearch leverages advanced **natural language processing (NLP)** techniques to provide **concise summaries** and **intelligent search** capabilities, saving you time and effort.
 
 ---
