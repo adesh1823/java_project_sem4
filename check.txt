@@ -1,0 +1,6 @@
+mvn clean compile
+mvn exec:java -Dexec.mainClass="com.yourname.summariser.SummarizerApplication"
+
+mvn spring-boot:run
+
+http://localhost:8080/h2-console
