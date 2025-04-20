@@ -1,6 +1,6 @@
 # IntelliSearch: Intelligent Document Search and Summarization Retrieval App
 
-![Project Logo](https://github.com/arav7781/java_project_sem4/blob/main/d5802e98-8b4b-40f9-8280-6d64b45d68a0.jpeg?raw=true)
+![Project Logo](https://github.com/arav7781/java_project_sem4/blob/main/Intelli.jpeg?raw=true)
 
 *This is the official logo of the Java Project Sem 4, representing the summarizer concept with a clean and minimal design.*)
 
