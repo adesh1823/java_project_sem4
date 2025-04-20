@@ -15,5 +15,11 @@ Welcome to **IntelliSearch**, a powerful **Java-based application** designed to 
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/arav7781/java_project_sem4.git
+cd java_project_sem4/doc-summarizer
 
